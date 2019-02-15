@@ -93,3 +93,12 @@ img {
     bottom: 0px;
     text-align: center
 }
+
+input {
+    width: 900px;
+    margin-left: 14px;
+}
+
+#m {
+    height: 175px;
+}
